@@ -144,8 +144,7 @@
             },
             "tooltip": [
               {"field": "Country", "type": "nominal", "title": "Country"},
-              {"field": "BMI", "type": "quantitative", "title": "No of Artworks"},
-              {"field": "Continent", "type": "nominal"}
+              {"field": "BMI", "type": "quantitative", "title": "No of Artworks"}
             ]
           }
         },
