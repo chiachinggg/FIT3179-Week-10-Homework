@@ -46,13 +46,13 @@
           "field": "Schooling (years)",
           "type": "quantitative",
           "scale": {"domain": [0, 21.5]},
-          "axis": {"tickCount": 5, "title": "Schooling duration (years)"}
+          "axis": {"tickCount": 5, "title": "Years taken to make"}
         },
         "y": {
           "field": "BMI",
           "type": "quantitative",
           "scale": {"domain": [0, 80]},
-          "axis": {"tickCount": 5, "title": "BMI"}
+          "axis": {"tickCount": 5, "title": "Number of Art Pieces"}
         }
       },
       "layer": [
